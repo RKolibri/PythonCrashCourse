@@ -2,10 +2,12 @@ def greet_user(username):
     print(f"Hello,{username.title()}!")
 
 
-greet_user('Kolibri')
+greet_user(input("What's your name?"))
 
 
 def display_message():
+
+    print()
     print("Display message function")
     print('In this chapter we are learning about Python functions, \n their arguments and parameters \n')
 
