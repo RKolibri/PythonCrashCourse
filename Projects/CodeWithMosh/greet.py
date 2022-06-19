@@ -13,3 +13,4 @@ def calc_cost(price, shipping, discount):
 greet_user("Klevis", "Resulaj", 26, "klevis@resulaj.eu")
 
 calc_cost(price=50, shipping=5, discount=0.5)
+calc_cost(150, 15, 0.15)
