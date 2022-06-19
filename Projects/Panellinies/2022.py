@@ -25,4 +25,5 @@ mathitis1 = Mathitis(103, "Νικολάου", 19)
 mathitis2 = Mathitis(105, "Γεωργίου", 9)
 mathitis1.tipose()
 mo = (mathitis1.vathmos + mathitis2.vathmos) / 2
+
 print(mo)
